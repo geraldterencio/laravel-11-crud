@@ -1,4 +1,4 @@
-<h1>SIMPLE CRUD</h1>
+<h1>Laravel 11: Simple CRUD using jquery</h1>
 
 <h3>Operating System</h3>
 <ul>
